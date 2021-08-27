@@ -1,0 +1,16 @@
+{ "candidate": { "name": "Jon Snow", "email": "jsnow@example.com", "salary": 30000, "skills": "Java, Kogito" }}
+{ "candidate": { "name": "Carrie M.", "email": "carrie@example.com", "salary": 480000, "skills": "Kogito, Spy" }}
+{ "candidate": { "name": "June", "email": "june@example.com", "salary": 120000, "skills": "C#, Escape" }}
+{ "candidate": { "name": "Harry Potter", "email": "potter@example.com", "salary": 1000, "skills": "Magic, Kogito" }}
+{ "candidate": { "name": "Walter White", "email": "wwhite@example.com", "salary": 450000, "skills": "Chemistry, Kogito" }}
+{ "candidate": { "name": "Frodo", "email": "frodo@example.com", "salary": 10000, "skills": "Java, Being a hero" }}
+{ "candidate": { "name": "Bart", "email": "bart@example.com", "salary": 40000, "skills": "Skateboarding" }}
+{ "candidate": { "name": "Sam G.", "email": "sam@example.com", "salary": 10000, "skills": "Penguins" }}
+{ "candidate": { "name": "Sam G.", "email": "sam@example.com", "salary": 10000, "skills": "Penguins" }}
+{ "candidate": { "name": "Son Goku", "email": "goku@example.com", "salary": 100000000, "skills": "Kame" }}
+{ "candidate": { "name": "Senbei N.", "email": "norimaki@example.com", "salary": 90000, "skills": "Cience, Robots" }}
+{ "candidate": { "name": "Daryl", "email": "daryl@example.com", "salary": 10, "skills": "Kill Zombies" }}
+{ "candidate": { "name": "Scully", "email": "scully@example.com", "salary": 750000, "skills": "Mistery" }}
+{ "candidate": { "name": "Eleven", "email": "eleven@example.com", "salary": 30000, "skills": "Superpowers" }}
+{ "candidate": { "name": "Peggy O.", "email": "olson@example.com", "salary": 10000, "skills": "Work hard" }}
+{ "candidate": { "name": "Sam G.", "email": "sam@example.com", "salary": 10000, "skills": "Penguins" }}
